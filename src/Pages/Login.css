@@ -1,0 +1,21 @@
+.login__bg{
+    background-image: url(../Data/LoginImg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.newuser{
+    padding-top: 10px;
+    font-size: small;
+}
+
+.newsign{
+    text-decoration: none;
+}
+
+.asideclass{
+    color: red;
+    font-size: small;
+}

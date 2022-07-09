@@ -1,0 +1,19 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.para{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.footerclass{
+    text-align: center;
+    padding-top: 20px;
+    font-size: medium;
+    color: brown;
+    font-weight: 600;
+}
